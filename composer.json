@@ -16,7 +16,7 @@
 			"name": "Ramki",
 			"email": "ram10raj@gmail.com"
 		}
-	  ],    
+	  ],
     "autoload": {
         "files": [ "registration.php" ],
         "psr-4": {
@@ -24,6 +24,6 @@
         }
     },
 	"require": {
-        "bangerkuwranger/google-cloud-storage-php-wrapper": "dev-master"
+        "bangerkuwranger/google-cloud-storage-php-wrapper": "1.0.1"
     }
 }
